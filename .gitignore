@@ -1,0 +1,6 @@
+# APK-only distribution: everything is ignored except the whitelist below.
+*
+!*/
+!.gitignore
+!README.md
+!docs/screenshot.png
